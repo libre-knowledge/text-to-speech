@@ -9,7 +9,7 @@
 * [雅婷文字轉語音](https://tts.yating.tw/)  
   提供台灣口音的文字轉語音服務
 * [ReadSpeaker - 为您的客户提供栩栩如生的 Text To Speech 声音](https://www.readspeaker.com/cn/)
-* [Text-to-Speech：自然流暢的語音合成服務  |  Cloud Text-to-Speech API  |  Google Cloud](https://cloud.google.com/text-to-speech)  
+* [Google Cloud Text-to-Speech API](https://cloud.google.com/text-to-speech)  
   Google 雲平台推出的，提供多語言多語音模型的文字轉語音服務
 
 ## 參考資料
