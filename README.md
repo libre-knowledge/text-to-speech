@@ -16,3 +16,9 @@
 
 * [語音合成 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90)
 * [Speech synthesis - Wikipedia](https://en.wikipedia.org/wiki/Speech_synthesis)
+
+---
+
+本主題為[自由知識協作平台](https://libre-knowledge.github.io/)的一部分，除部份特別標註之經合理使用(fair use)原則使用的內容外允許公眾於授權範圍內自由使用
+
+如有任何問題，歡迎於本主題的[議題追蹤系統](https://github.com/libre-knowledge/text-to-speech/issues)創建新議題反饋
