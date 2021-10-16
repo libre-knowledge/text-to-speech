@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: 文字轉語音 Text-to-Speech
+Upstream-Contact: Issues · libre-knowledge/text-to-speech <https://github.com/libre-knowledge/text-to-speech/issues>
+Source: https://github.com/libre-knowledge/text-to-speech
+
+Files:
+  *README.md
+  */README.md
+  _config.yml
+Copyright: 2021 自由知識協作平台貢獻者 <https://github.com/libre-knowledge/libre-knowledge/issues>
+License: CC-BY-SA-4.0
